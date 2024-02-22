@@ -23,4 +23,4 @@ Hello participants! We're thrilled to have you on board for Hacksprintv5.o! This
 Feel free to reach out if you have any questions or need assistance. Join the Discord server for real-time support and collaboration. Happy hacking, and may your projects shine bright! 🚀
 
 ## Hackathon Logo
-![Hackathon Logo](link_to_your_image_file.png)
+![Hackathon Logo](Hacksprintv5.0.png)
